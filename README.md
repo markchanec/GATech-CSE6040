@@ -4,3 +4,4 @@ Extra credits assigment for Georgia Institute of Technology (OMSA) Masters modul
 Freehand to choose topic of interest as to demostrate Data analysis capabilities
 
 ![Screenshot](Picture1.png)
+![Screenshot](Picture2.png)
